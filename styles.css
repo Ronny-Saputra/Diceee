@@ -31,3 +31,17 @@ p {
 img {
   width: 80%;
 }
+
+.btn {
+  border: none;
+  background-color: #00ADB5;
+  color: white;
+  font-size: 2rem;
+  padding: 15px 30px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 0px #232931;
+  font-family: "Montserrat", sans-serif;
+  cursor: pointer; 
+  margin-left: 900px;
+  margin-top: 40px;
+}
